@@ -105,4 +105,4 @@ void writeMIFARE(uint8_t* data,uint8_t blockAddr)
 * https://www.nxp.com/docs/en/application-note/AN10927.pdf
 * [https://github.com/pkourany/MFRC522_RFID_Library](https://github.com/pkourany/MFRC522_RFID_Library)
 * [https://embeddedexpert.io/?p=768](https://embeddedexpert.io/?p=768)
-* https://stackoverflow.com/[🙏](https://emojipedia.org/folded-hands/)
+* https://stackoverflow.com/ [🙏]
